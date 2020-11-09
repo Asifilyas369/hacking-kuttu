@@ -1,9 +1,9 @@
 
 <p align="left">
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-g>
+<a href="#"><img title="Made in KERALA" src="https://img.shields.io/badge/MADE%20IN-KERALA-g>
 </p>
 <p align="center">
-<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/m>
+<a href="#"><img title="kuttu" src="https://raw.githubusercontent.com/htr-tech/release-download/m>
 </p>
 <p align="center">
 <a href="https://github.com/hacking"><img title="Author" src="https://img.shields.io/badge/Author-h>
